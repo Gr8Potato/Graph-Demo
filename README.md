@@ -11,5 +11,5 @@ This project implements a weighted, directional graph and simulates a city using
 
 You must use one of the `WUG` (weighted undirected graph) or `WDG` (weighted directed graph) files to demo the program. The program parses one of these files and constructs a graph from the file's contents.
 
-[!CAUTION]
-Disclaimer: I do not support people plagiarizing my code. I do not take responsibility for the unlawful actions of others.
+> [!CAUTION]
+> I do not support people plagiarizing my code. I do not take responsibility for the unlawful actions of others.
